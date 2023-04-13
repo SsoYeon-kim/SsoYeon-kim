@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/>
    
 ### 📦 Framework
-<img src="https://img.shields.io/badge/flask-#000000?&style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?&style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-#009688?&style=flat-square&logo=fastapi&logoColor=white"/>
    
 ### 🏡 Infra
